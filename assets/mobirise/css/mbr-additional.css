@@ -743,49 +743,6 @@ a {
     padding-right: 16px;
   }
 }
-.cid-uwQDNIb9LK {
-  display: flex;
-}
-@media (min-width: 768px) {
-  .cid-uwQDNIb9LK {
-    align-items: flex-end;
-  }
-  .cid-uwQDNIb9LK .row {
-    justify-content: center;
-  }
-  .cid-uwQDNIb9LK .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uwQDNIb9LK .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uwQDNIb9LK {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-uwQDNIb9LK .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uwQDNIb9LK .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uwQDNIb9LK .mbr-section-title,
-.cid-uwQDNIb9LK .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-uwQDNIb9LK .mbr-text,
-.cid-uwQDNIb9LK .mbr-section-btn {
-  text-align: center;
-}
-.cid-uwQDNIb9LK .mbr-section-title {
-  text-align: center;
-}
 .cid-uwQEiU1fhK {
   z-index: 1000;
   width: 100%;
@@ -1365,6 +1322,49 @@ a {
     padding: 1rem;
   }
 }
+.cid-uwQDNIb9LK {
+  display: flex;
+}
+@media (min-width: 768px) {
+  .cid-uwQDNIb9LK {
+    align-items: flex-end;
+  }
+  .cid-uwQDNIb9LK .row {
+    justify-content: center;
+  }
+  .cid-uwQDNIb9LK .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-uwQDNIb9LK .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uwQDNIb9LK {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-uwQDNIb9LK .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-uwQDNIb9LK .content-wrap {
+    width: 100%;
+  }
+}
+.cid-uwQDNIb9LK .mbr-section-title,
+.cid-uwQDNIb9LK .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uwQDNIb9LK .mbr-text,
+.cid-uwQDNIb9LK .mbr-section-btn {
+  text-align: center;
+}
+.cid-uwQDNIb9LK .mbr-section-title {
+  text-align: center;
+}
 .cid-uwQSrrpqgI {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1470,6 +1470,11 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-uwQSrrpqgI .embla__button {
+    display: none;
+  }
 }
 .cid-uwQSrrpqgI .embla__button:disabled {
   cursor: default;
