@@ -4034,3 +4034,204 @@ a {
 .cid-uwRegblF4S .mbr-section-title {
   color: #ffffff;
 }
+.cid-ux5ObCpvXQ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+.cid-ux5ObCpvXQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ux5ObCpvXQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ux5ObCpvXQ .mbr-text {
+  color: #000000;
+}
+.cid-ux5ObCpvXQ .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-ux5ObCpvXQ .item-mb {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .item-mb {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ux5ObCpvXQ .mbr-number {
+  color: #9fe870;
+  text-align: left;
+}
+.cid-ux5ObCpvXQ .mbr-section-title {
+  color: #ffffff;
+}
+.cid-ux5ObCpvXQ .item-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 2.25rem 2.25rem 0;
+  background: #ffffff;
+}
+.cid-ux5ObCpvXQ .item-content .item-footer {
+  margin-top: auto;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-ux5ObCpvXQ .item-content {
+    padding: 0rem 1.5rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .item-content {
+    padding: 0rem 1.5rem;
+  }
+}
+.cid-ux5ObCpvXQ .side-features {
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.cid-ux5ObCpvXQ .side-features .item {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.cid-ux5ObCpvXQ .item-head {
+  background: #9fe870;
+  padding: 2.25rem;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-ux5ObCpvXQ .item-head {
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .item-head {
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+.cid-ux5ObCpvXQ .item-wrapper {
+  border-radius: 2rem;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  background: #ffffff;
+  padding: 0rem;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-ux5ObCpvXQ .item-wrapper .item-footer {
+    padding: 0 1.5rem 3rem;
+  }
+}
+@media (min-width: 1201px) {
+  .cid-ux5ObCpvXQ .item-wrapper .item-footer {
+    padding: 0 2rem 3rem;
+  }
+}
+.cid-ux5ObCpvXQ .mbr-section-btn {
+  margin-top: auto !important;
+  padding: 2rem 2rem 0;
+}
+@media (max-width: 991px) {
+  .cid-ux5ObCpvXQ .mbr-section-btn {
+    padding: 0rem 2.25rem 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .mbr-section-btn {
+    padding: 0rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+.cid-ux5ObCpvXQ .item:focus,
+.cid-ux5ObCpvXQ span:focus {
+  outline: none;
+}
+.cid-ux5ObCpvXQ .mbr-text,
+.cid-ux5ObCpvXQ .mbr-section-btn {
+  text-align: left;
+}
+.cid-ux5ObCpvXQ .item-title {
+  text-align: center;
+  color: #000000;
+}
+.cid-ux5ObCpvXQ .item-subtitle {
+  text-align: left;
+  color: #000000;
+}
+.cid-ux5ObCpvXQ .content-head {
+  max-width: 800px;
+}
+.cid-ux5ObCpvXQ .counter-container ul {
+  margin: 0;
+  padding-left: 2.25rem;
+  list-style: none;
+}
+.cid-ux5ObCpvXQ .counter-container ul li {
+  position: relative;
+  list-style: none;
+  margin-bottom: 2rem;
+}
+.cid-ux5ObCpvXQ .counter-container ul li:before {
+  position: absolute;
+  left: -1.5em;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9fe870;
+  background-color: #9fe870;
+  width: 0.5em;
+  height: 0.5em;
+  top: 0.4em;
+  border-radius: 50%;
+}
+.cid-ux5ObCpvXQ .counter-container ul li {
+  margin-bottom: 1rem;
+}
+.cid-ux5ObCpvXQ .mbr-text UL {
+  text-align: left;
+}
+.cid-ux5ObCpvXQ .item-btn {
+  width: -webkit-fill-available;
+}
+.cid-ux5ObCpvXQ .main-button {
+  margin-bottom: 2rem;
+  padding: 0rem 0rem 2rem;
+}
+@media (max-width: 767px) {
+  .cid-ux5ObCpvXQ .main-button {
+    margin-bottom: 2rem;
+    padding: 0rem 0rem 0.5rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ux5ObCpvXQ .main-button {
+    padding: 0rem 0rem 0.5rem;
+  }
+}
+.cid-ux5ObCpvXQ .mbr-section-subtitle,
+.cid-ux5ObCpvXQ .main-button .btn {
+  text-align: left;
+}
+.cid-ux5ObCpvXQ .mbr-section-subtitle,
+.cid-ux5ObCpvXQ .main-button {
+  color: #ffffff;
+  text-align: left;
+}
